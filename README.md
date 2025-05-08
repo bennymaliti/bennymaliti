@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing, Python, AI and Linux
 - 🌱 I’m currently learning AWS, Azure and GCP
 - 💞️ I’m looking to collaborate on cloud computing projects
-- 📫 How to reach me at ben@benmaliti.com
+- 📫 How to reach me at benmaliti@hotmail.com
 - 😄 Pronouns: ... none
 - ⚡ Fun fact: ... listens to amapiano and afrobeats
 
