@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bennymaliti
-- 👀 I’m interested in Cloud Computing, Python, AI and Linux
-- 🌱 I’m currently learning AWS, Azure and GCP
+- 👀 I’m interested in DevOps, Cloud Computing, Python, AI and Linux
+- 🌱 I’m currently certified in AWS, Azure and learning GCP
 - 💞️ I’m looking to collaborate on cloud computing projects
 - 📫 How to reach me at benmaliti@hotmail.com
 - 😄 Pronouns: ... none
